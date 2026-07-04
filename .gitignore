@@ -1,0 +1,21 @@
+# Secrets — NEVER commit
+.env
+credentials.json
+token.json
+
+# Data & generated artifacts
+*.db
+recordings/
+reports/
+data/clips/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,17 @@
+# Aruvi AI Carnatic Music Teacher — Python dependencies
+anthropic
+openai-whisper
+librosa
+soundfile
+numpy
+scipy
+streamlit
+streamlit-webrtc
+gTTS
+pyttsx3
+reportlab
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+python-dotenv
+# sqlite3 is in the Python standard library

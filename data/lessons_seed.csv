@@ -1,0 +1,17 @@
+lesson_number,lesson_name,raga,tala,stage,track,source,notation,lyrics,reference_clip_path,status
+1,Sarali Varisai,Mayamalavagowla,Adi,1,A,book,,,,mastered
+2,Janta Varisai,Mayamalavagowla,Adi,2,A,book,,,,mastered
+3,Dhatu Varisai,Mayamalavagowla,Adi,2,A,book,,,,mastered
+4,Sapta Tala Alankaras,Mayamalavagowla,Various,2,A,book,,,,mastered
+5,Geetham - Sri Gananatha,Malahari,Adi,3,A,book,,,,in_progress
+6,Geetham - Kundagaura,Malahari,Adi,3,A,book,,,,locked
+7,Geetham - Kereya Neeranu,Malahari,Adi,3,A,book,,,,locked
+8,Geetham - Padumanabha,Malahari,Adi,3,A,book,,,,locked
+9,Geetham - Sri Ramachandra,Bhairavi,Triputa,3,A,book,,,,locked
+10,Jatiswaram,Bilahari,Adi,4,A,syllabus,,,,locked
+11,Swarajati,Bilahari,Adi,4,A,syllabus,,,,locked
+12,Varnam - Ninnukori,Mohanam,Adi,5,A,syllabus,,,,locked
+13,Krithi - Vatapi Ganapatim,Hamsadhwani,Adi,6,A,syllabus,,,,locked
+14,Adi Thaalam (hand-kept),,Adi,3,B,syllabus,,,,in_progress
+15,Ear training - find Sa,,,3,C,syllabus,,,,in_progress
+16,Theory - the 7 swaras and 12 swarasthanas,,,3,D,syllabus,,,,in_progress
