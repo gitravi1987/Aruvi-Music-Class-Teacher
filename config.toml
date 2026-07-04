@@ -1,0 +1,11 @@
+# Forces a light, high-contrast Carnatic theme regardless of the user's system dark mode.
+[theme]
+base = "light"
+primaryColor = "#D4A017"            # temple gold (accents, primary buttons)
+backgroundColor = "#FAF3E0"         # deep warm ivory
+secondaryBackgroundColor = "#F3E7C9" # sidebar / cards — slightly deeper cream
+textColor = "#2C2C2C"               # deep charcoal — strong contrast on ivory
+font = "sans serif"
+
+[server]
+headless = true
